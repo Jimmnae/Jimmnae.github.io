@@ -917,7 +917,7 @@ Once you're in your bash terminal, enter the following commands, pressing ENTER 
 >
 > `git commit -m 'add index.html and css files'`
 >
-> `git push`
+> `    
 
 Give it a couple minutes and you should be able to view the additions to your website live on the web at `username.github.io` (Where `username` is your own GitHub username.)
 
